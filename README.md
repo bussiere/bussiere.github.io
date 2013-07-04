@@ -1,4 +1,4 @@
-bussiere.github.io
-==================
+RapidNews
+=========
 
-bussiere.github.io
+To publish rapid news ....
