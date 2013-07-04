@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'Bussiere'
-SITENAME = u'Bussiere Rapid News'
+SITENAME = u'Bussiere Contact'
 SITEURL = 'http://bussiere.github.io'
 
 TIMEZONE = 'Europe/Paris'
