@@ -11,6 +11,11 @@ Tags: contact,phone,email,telephone
 Mon telephone :
 +33652435284
 
+
+Mon Email :
+
+[![Email bussiere](static/images/bussiereemail.jpg)] [0] 
+
 Mon facebook :
 
 [http://www.facebook.com/bussiere.adrien][1]
@@ -18,12 +23,6 @@ Mon facebook :
 Mon twitter :
 
 [http://twitter.com/bussiere][3]
-
-
-Mon Email :
-
-[![Email bussiere](static/images/bussiereemail.jpg)] [0] 
-
 
 Qrcode :
 
