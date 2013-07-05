@@ -6,6 +6,7 @@ Tags: contact,phone,email,telephone
 [0]: static/images/bussiereemail.jpg  "Grande Version"
 [1]: http://www.facebook.com/bussiere.adrien  "Grande Version"
 [2]: static/images/qrcodecontact.jpg  "Qrcode"
+[3]: http://twitter.com/bussiere  "Qrcode"
 
 Mon telephone :
 +33652435284
@@ -13,6 +14,11 @@ Mon telephone :
 Mon facebook :
 
 [http://www.facebook.com/bussiere.adrien][1]
+
+Mon twitter :
+
+[http://twitter.com/bussiere][3]
+
 
 Mon Email :
 
