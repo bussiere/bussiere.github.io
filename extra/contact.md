@@ -3,9 +3,9 @@ Title: Contact
 Category: Contact
 Tags: contact,phone,email,telephone
 
-[0]: static/images/bussiereemail.jpg  "Grande Version"
+[0]: http://bussiere.github.io/static/images/bussiereemail.jpg  "Grande Version"
 [1]: http://www.facebook.com/bussiere.adrien  "Grande Version"
-[2]: static/images/qrcodecontact.jpg  "Qrcode"
+[2]: http://bussiere.github.io/static/images/qrcodecontact.jpg  "Qrcode"
 [3]: http://twitter.com/bussiere  "Qrcode"
 
 Mon telephone :
@@ -14,7 +14,7 @@ Mon telephone :
 
 Mon Email :
 
-[![Email bussiere](static/images/bussiereemail.jpg)] [0] 
+[![Email bussiere](http://bussiere.github.io/static/images/bussiereemail.jpg)] [0] 
 
 Mon facebook :
 
@@ -26,7 +26,7 @@ Mon twitter :
 
 Qrcode :
 
-[![Qrcode](static/images/qrcodecontact.jpg)] [2] 
+[![Qrcode](http://bussiere.github.io/static/images/qrcodecontact.jpg)] [2] 
 
 
 Clef Pgp Publique :

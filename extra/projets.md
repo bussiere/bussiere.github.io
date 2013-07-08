@@ -13,9 +13,9 @@ Quelques projets :
 Une robe de marie ou les couleurs changent en fonctions des emotions de la mariee :
 
 
-[![Email bussiere](static/images/robe1.jpg)] [0] 
+[![Email bussiere](http://bussiere.github.io/static/images/robe1.jpg)] [0] 
 
 
-[![Email bussiere](static/images/robe2.jpg)] [0] 
+[![Email bussiere](http://bussiere.github.io/static/images/robe2.jpg)] [0] 
 
 
