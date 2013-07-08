@@ -1,25 +1,21 @@
 Date: 2013-06-25
 Title: Robe
 Category: Projet
-Tags: contact,phone,email,telephone
+Tags: robe,led,arduino,lilypad
 
-[0]: static/images/bussiereemail.jpg  "Grande Version"
-[1]: http://www.facebook.com/bussiere.adrien  "Grande Version"
-[2]: static/images/qrcodecontact.jpg  "Qrcode"
-
-Mon telephone :
-+33652435284
-
-Mon facebook :
-
-[http://www.facebook.com/bussiere.adrien][1]
-
-Mon Email :
-
-[![Email bussiere](static/images/bussiereemail.jpg)] [0] 
+[0]: http://bussiere.github.io/robe/  
 
 
-Qrcode :
 
-[![Qrcode](static/images/qrcodecontact.jpg)] [2] 
+Quelques projets :
+
+
+Une robe de marie ou les couleurs changent en fonctions des emotions de la mariee :
+
+
+[![Email bussiere](static/images/robe1.jpg)] [0] 
+
+
+[![Email bussiere](static/images/robe2.jpg)] [0] 
+
 

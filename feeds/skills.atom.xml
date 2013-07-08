@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Contact</title><link href="http://bussiere.github.io/" rel="alternate"></link><link href="http://bussiere.github.io/feeds%5Cskills.atom.xml" rel="self"></link><id>http://bussiere.github.io/</id><updated>2013-06-25T00:00:00+02:00</updated><entry><title>Crochetage</title><link href="http://bussiere.github.io/crochetage.html" rel="alternate"></link><updated>2013-06-25T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io,2013-06-25:crochetage.html</id><summary type="html">&lt;p&gt;Mon telephone :
-+33652435284&lt;/p&gt;
-&lt;p&gt;Mon facebook :&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.facebook.com/bussiere.adrien" title="Grande Version"&gt;http://www.facebook.com/bussiere.adrien&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mon Email :&lt;/p&gt;
-&lt;p&gt;&lt;a href="static/images/bussiereemail.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/bussiereemail.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;Qrcode :&lt;/p&gt;
-&lt;p&gt;&lt;a href="static/images/qrcodecontact.jpg" title="Qrcode"&gt;&lt;img alt="Qrcode" src="static/images/qrcodecontact.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</summary><category term="contact"></category><category term="phone"></category><category term="email"></category><category term="telephone"></category></entry><entry><title>Hypnose</title><link href="http://bussiere.github.io/hypnose.html" rel="alternate"></link><updated>2013-06-25T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io,2013-06-25:hypnose.html</id><summary type="html">&lt;p&gt;Mon telephone :
-+33652435284&lt;/p&gt;
-&lt;p&gt;Mon facebook :&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.facebook.com/bussiere.adrien" title="Grande Version"&gt;http://www.facebook.com/bussiere.adrien&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mon Email :&lt;/p&gt;
-&lt;p&gt;&lt;a href="static/images/bussiereemail.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/bussiereemail.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;Qrcode :&lt;/p&gt;
-&lt;p&gt;&lt;a href="static/images/qrcodecontact.jpg" title="Qrcode"&gt;&lt;img alt="Qrcode" src="static/images/qrcodecontact.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</summary><category term="contact"></category><category term="phone"></category><category term="email"></category><category term="telephone"></category></entry><entry><title>Pyro</title><link href="http://bussiere.github.io/pyro.html" rel="alternate"></link><updated>2013-06-25T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io,2013-06-25:pyro.html</id><summary type="html">&lt;p&gt;Mon telephone :
-+33652435284&lt;/p&gt;
-&lt;p&gt;Mon facebook :&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.facebook.com/bussiere.adrien" title="Grande Version"&gt;http://www.facebook.com/bussiere.adrien&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mon Email :&lt;/p&gt;
-&lt;p&gt;&lt;a href="static/images/bussiereemail.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/bussiereemail.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;Qrcode :&lt;/p&gt;
-&lt;p&gt;&lt;a href="static/images/qrcodecontact.jpg" title="Qrcode"&gt;&lt;img alt="Qrcode" src="static/images/qrcodecontact.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</summary><category term="contact"></category><category term="phone"></category><category term="email"></category><category term="telephone"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Contact</title><link href="http://bussiere.github.io/" rel="alternate"></link><link href="http://bussiere.github.io/feeds%5Cskills.atom.xml" rel="self"></link><id>http://bussiere.github.io/</id><updated>2013-06-25T00:00:00+02:00</updated><entry><title>Crochetage</title><link href="http://bussiere.github.io/crochetage.html" rel="alternate"></link><updated>2013-06-25T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io,2013-06-25:crochetage.html</id><summary type="html">&lt;p&gt;Me contacter si interesse :&lt;/p&gt;
+&lt;p&gt;Je donne regulierement des cours de crochetage aussi :&lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/crochetage1.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/crochetage1_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/crochetage2.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/crochetage2_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</summary><category term="crochetage"></category><category term="lockpick"></category><category term="cadenas"></category><category term="skills"></category></entry><entry><title>Hypnose</title><link href="http://bussiere.github.io/hypnose.html" rel="alternate"></link><updated>2013-06-25T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io,2013-06-25:hypnose.html</id><summary type="html">&lt;p&gt;Je fais de l'hypnose aussi, me contacter si intéréssé.&lt;/p&gt;</summary><category term="hypnose"></category><category term="skills"></category></entry><entry><title>Pyro</title><link href="http://bussiere.github.io/pyro.html" rel="alternate"></link><updated>2013-06-25T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io,2013-06-25:pyro.html</id><summary type="html">&lt;p&gt;Je fais aussi un peu de pyrotechnie :&lt;/p&gt;
+&lt;p&gt;Me contacter si interesse :&lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu1.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu1_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu2.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu2_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu3.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu3_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu4.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu4_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu5.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu5_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu6.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu6_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu7.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu7_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="static/images/feu8.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="static/images/feu8_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</summary><category term="pyrotechnie"></category><category term="feu"></category><category term="flamme"></category></entry></feed>

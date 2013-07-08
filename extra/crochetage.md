@@ -1,25 +1,17 @@
 Date: 2013-06-25
 Title: Crochetage
 Category: Skills
-Tags: contact,phone,email,telephone
+Tags: crochetage,lockpick,cadenas,skills
 
-[0]: static/images/bussiereemail.jpg  "Grande Version"
-[1]: http://www.facebook.com/bussiere.adrien  "Grande Version"
-[2]: static/images/qrcodecontact.jpg  "Qrcode"
+[0]: static/images/crochetage1.jpg  "Grande Version"
+[1]: static/images/crochetage2.jpg  "Grande Version"
 
-Mon telephone :
-+33652435284
+Me contacter si interesse :
 
-Mon facebook :
+Je donne regulierement des cours de crochetage aussi :
 
-[http://www.facebook.com/bussiere.adrien][1]
+[![Email bussiere](static/images/crochetage1_thumb.jpg)] [0] 
 
-Mon Email :
+[![Email bussiere](static/images/crochetage2_thumb.jpg)] [1] 
 
-[![Email bussiere](static/images/bussiereemail.jpg)] [0] 
-
-
-Qrcode :
-
-[![Qrcode](static/images/qrcodecontact.jpg)] [2] 
 
