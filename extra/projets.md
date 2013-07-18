@@ -4,7 +4,7 @@ Category: Projet
 Tags: robe,led,arduino,lilypad
 
 [0]: http://bussiere.github.io/robe/  
-[1]: http://bussiere.kodingen.com/dossier.html
+[1]: http://bussiere.github.io/dossier.html
 
 
 Quelques projets :
@@ -22,4 +22,4 @@ Une robe de marie ou les couleurs changent en fonctions des emotions de la marie
 
 
 
-Le site web du projet : [http://bussiere.kodingen.com/dossier.html][1]
+Le site web du projet : [http://bussiere.github.io/dossier.html][1]
