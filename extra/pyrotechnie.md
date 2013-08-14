@@ -12,7 +12,7 @@ Tags: pyrotechnie,feu,flamme
 [6]: http://bussiere.github.io/static/images/feu7.jpg  "Grande Version"
 [7]: http://bussiere.github.io/static/images/feu8.jpg  "Grande Version"
 [8]: http://bussiere.github.io/static/images/alice.jpg  "Grande Version"
-[9]: www.alice-blackeyes.com 
+[9]: http://www.alice-blackeyes.com 
 
 Je fais aussi un peu de pyrotechnie :
 
