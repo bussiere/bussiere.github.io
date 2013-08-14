@@ -20,7 +20,9 @@ Me contacter si interesse :
 
 [![Email bussiere](http://bussiere.github.io/static/images/alice_thumb.jpg)][8] 
 
+
 Pour celle ci merci au photographe : Mark
+
 
 Et merci au modele [Alice][9] : [http://www.alice-blackeyes.com][9]
 
