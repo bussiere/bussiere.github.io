@@ -13,6 +13,7 @@ Tags: pyrotechnie,feu,flamme
 [7]: http://bussiere.github.io/static/images/feu8.jpg  "Grande Version"
 [8]: http://bussiere.github.io/static/images/alice.jpg  "Grande Version"
 [9]: http://www.alice-blackeyes.com/ "site alice"
+[10]: http://bussiere.github.io/static/images/feu9.jpg  "Grande Version"
 
 Je fais aussi un peu de pyrotechnie :
 
@@ -26,6 +27,7 @@ Pour celle ci merci au photographe : Mark
 
 Et merci au modele [Alice][9] : [http://www.alice-blackeyes.com][9]
 
+[![Email bussiere](http://bussiere.github.io/static/images/feu9_thumb.jpg)] [10] 
 
 [![Email bussiere](http://bussiere.github.io/static/images/feu1_thumb.jpg)] [0] 
 

@@ -23,8 +23,8 @@ THEME = "../pelican-themes/bootstrap2"
 PLUGIN_PATH = "../pelican-plugins/"
 PLUGINS = ['sitemap',]
 FEED_MAX_ITEMS = 15
-FEED_ATOM = 'feeds/all.atom.xml'
-FEED_RSS = 'feeds/all.rss.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 SITEMAP = {
     'format': 'xml',
